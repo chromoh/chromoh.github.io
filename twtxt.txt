@@ -1,1 +1,2 @@
 2020-07-07T07:07:07.070707+00:00	Lucky 7s
+2020-07-12T07:07:07.070707+00:00  Looks like the mention format is @<$handle $twtxt_uri> which are the same 2 args to `twtxt follow`. Testing with @<chromo http://twtxt.xyz/u/chromoh.txt>.
